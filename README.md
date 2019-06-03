@@ -6,5 +6,5 @@ I'm an employee at Google and might be helping a little with the Google AR team 
   -- Andrew.
   
 
-~~~~
+----
 web: www.andrewnoske.com
